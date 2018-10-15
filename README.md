@@ -15,4 +15,4 @@
 
 
 
-### Link to: [view](https://sergii5854.github.io/BA-isInCircle.github.io/) .
+### Link to: [view](https://sergii5854.github.io/BA-isInCircle/) .
